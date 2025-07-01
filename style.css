@@ -3,5 +3,18 @@ body {
     color:brown;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 100px;
-    
+}
+
+header {
+border-bottom: solid 2px color(srgb rgb(92, 17, 17));
+padding: 20px;
+font-size: 30px;
+color:black;
+}
+
+section {
+background-color: aliceblue;
+padding-bottom:80px;
+padding-top:80px;
+display:flex;
 }
